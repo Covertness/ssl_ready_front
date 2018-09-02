@@ -1,0 +1,10 @@
+{
+  "short_name": "SSL Ready",
+  "name": "Make your domain ready for HTTPS",
+  "icons": [
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
