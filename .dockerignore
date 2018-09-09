@@ -1,0 +1,6 @@
+*
+!.dockerignore
+!build/
+!lua_build/
+!nginx.conf
+!mime.types
